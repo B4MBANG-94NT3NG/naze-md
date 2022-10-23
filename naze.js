@@ -48,7 +48,7 @@ const hariiini = moment.tz('Asia/Jakarta').format('DD MMMM YYYY')
 const barat = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 const tengah = moment.tz('Asia/Makassar').format('HH:mm:ss')
 const timur = moment.tz('Asia/Jayapura').format('HH:mm:ss')
-const nyoutube = ('© Naze\nYoutube/Sc :\nhttps://youtube.com/c/Nazedev')  //ubah di config biar ngk emror
+const nyoutube = ('© Bambang\nYoutube/Sc :\nhttps://youtube.com/c/Bambangdev')  //ubah di config biar ngk emror
 const ini_mark = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
 gambar = fs.readFileSync('./media/image/naze.jpg')
@@ -3655,7 +3655,7 @@ let alfamart = `628111500959@s.whatsapp.net`
   mentions: ments,
   headerType: 4,
   contextInfo:{externalAdReply:{
-  title: 'Naze Dev',
+  title: 'Bambang Dev',
   body: 'Subscribe My YouTube', 
   showAdAttribution: true,
   thumbnail: thumb,
